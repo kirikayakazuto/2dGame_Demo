@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "9ab11150-6ca6-4eec-b186-6620bf4b5bfc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "冰山岩石峭壁场景素材-2_爱给网_aigei_com": {
+      "ver": "1.0.3",
+      "uuid": "af67e507-f1ef-4c83-a778-0172577c4b2a",
+      "rawTextureUuid": "9ab11150-6ca6-4eec-b186-6620bf4b5bfc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 4048,
+      "height": 1024,
+      "rawWidth": 4048,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

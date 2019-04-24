@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "8b24cd66-c179-4f64-880e-67401aa2e19e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "DNF saber 桐人 金闪闪 人物序列图-198_爱给网_aigei_com": {
+      "ver": "1.0.3",
+      "uuid": "4cbf005e-0415-4591-8d21-72c1454a0e74",
+      "rawTextureUuid": "8b24cd66-c179-4f64-880e-67401aa2e19e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 79,
+      "height": 82,
+      "rawWidth": 79,
+      "rawHeight": 82,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

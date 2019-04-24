@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "ed436c22-5bbe-4f6f-aa49-9745a1277032",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "一组dnf怪物移动攻击序列图-coward_planet.i_爱给网_aigei_com (5)": {
+      "ver": "1.0.3",
+      "uuid": "e539a6d7-dce9-4ac5-928b-0a9df53e1f1d",
+      "rawTextureUuid": "ed436c22-5bbe-4f6f-aa49-9745a1277032",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 100,
+      "height": 165,
+      "rawWidth": 100,
+      "rawHeight": 165,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

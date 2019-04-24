@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "0c802936-e908-40f7-a6b4-b893dbbb00d3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "新绝代双骄Ⅱ-素材2_战斗背景-9_爱给网_aigei_com": {
+      "ver": "1.0.3",
+      "uuid": "fb57a110-1ebc-4afa-8b07-86253362302a",
+      "rawTextureUuid": "0c802936-e908-40f7-a6b4-b893dbbb00d3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 640,
+      "height": 380,
+      "rawWidth": 640,
+      "rawHeight": 380,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

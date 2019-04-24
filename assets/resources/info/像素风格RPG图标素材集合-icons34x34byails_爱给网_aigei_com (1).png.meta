@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "adedbef3-4cac-4a19-bac4-e7e99b5c632b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "像素风格RPG图标素材集合-icons34x34byails_爱给网_aigei_com (1)": {
+      "ver": "1.0.3",
+      "uuid": "8475d1e7-1520-4977-80aa-62b3cf139d8d",
+      "rawTextureUuid": "adedbef3-4cac-4a19-bac4-e7e99b5c632b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 31,
+      "height": 31,
+      "rawWidth": 34,
+      "rawHeight": 34,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
